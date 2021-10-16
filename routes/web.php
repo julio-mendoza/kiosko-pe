@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use Kiosko\Landing\Infra\Controller\HomeController;
+use Kiosko\Landing\Infrastructure\Web\Controller\HomeController;
 
 /*
 |--------------------------------------------------------------------------

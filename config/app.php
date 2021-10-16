@@ -175,6 +175,11 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
+        /*
+         * Kiosko Service Providers...
+         */
+        Kiosko\Landing\Infrastructure\Providers\LandingServiceProvider::class,
+
     ],
 
     /*
